@@ -1,3 +1,3 @@
 # cinerang-buzz
- This is My First Git Repository
+ This is My First Git Repository.
 Director - Rakesh Singh
